@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Learning why a good solo is good from crap solos"
+date:   2023-01-30 15:04:00 +0100
+categories: anti-patterns, teaching, book
+---
+This is a non-technical post.
 A few years ago I was sitting in a jazz cafe, when a group of young saxophone players started a jam session.  The players were young and seemingly at the beginning of their studies, so most of their solos were obviously not very good.  As if there's basically any kind of music around, I usually can't help focussing on it, I stopped reading and took my full attention to them.  After a while, I recognized something interesting: while in most cases it's quite difficult to explain why a good solo is good, it's almost always very obvious why a crap solo is crap.  Moreover, as crap solos often lack (or sometimes, conversly, over-exaggerate) some important attributes of good solos, you can actually learn a lot about good solos if you listen to some crap solos.  So if you want to understand why a John Coltrane solo is good, you shouldn't only listen to him or Charlie Parker, but also some folks who play really poorly.
 
 Yeah, that's nice but this is (mostly) a tech blog.  How does this apply to tech?  In fact, what reminded me of this story is the book "SQL Antipatterns" by Bill Karwin.  I think this is a fantastic book, and a significant part of why I love it is because of its approach where no only does he present best practices (good solos), but he explains the reasons behind his choices through the lense of anti-patterns (crap solos).  And similarly to jazz, if you study some bad choices first (and it's much easier to explain the consequences of bad choices too), you'll appreaciate the good patterns even more.
