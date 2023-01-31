@@ -2,12 +2,9 @@
 layout: post
 title:  "Productive debates discover trade-offs"
 date:   2023-01-10 18:15:38 +0100
-categories: trade-offs debates productivity
+categories:
 ---
-This is a non-technical post.
-
-vim or emacs, dynamically typed vs. statically typed languages, microservices
-vs. monoliths, etc.  Can you could continue the list?  I guess so!
+linux or windows, vim or emacs, dynamically typed vs. statically typed languages, minirepos vs. monorepo, etc.  Can you could continue the list?  I guess so!
 
 What's common in these recurring debates is that there's never a clear winner, and they easily become boring once the arguments start to repeat.  Maybe boring if the debate goes this way, but I believe there's an opportunity to learn something if we tweak the discussion a bit.
 
