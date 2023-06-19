@@ -18,8 +18,10 @@ If so, are the following patterns also familiar to you?
 
 Lot of frustration combined with inefficient practices for a questionable outcome.
 
-I believe most of this is down to a misunderstanding about the role of testing.  With a separated testing team its too attrictive for every participant to reach a consensus that it's the testing team who should be accountable for code quality: the developers are happy to drop this responsibility whereas the testers are happy to take it.
+I believe most of this is down to a misunderstanding about the role of testing.  With a separated testing team it's too attractive for every participant to reach a consensus that it's the testing team who should be accountable for code quality: the developers are happy to drop this responsibility whereas the testers are happy to take it.
 
-However, if you are responsible for something you can't control (show me a company where a tester can fire a developer committing too many bugs), it can only lead to frustration and inefficient practices.  I think this story is very similar to the one where system administrators struggle with the operation of software written by others, the realization of which lead to the devops movement. (It's such a shame that the industry completely misunderstood devops and reacted by simply renaming system admin role to devops roles.  (And this whole story repeated recently with scrum masters...))
+However, if you are responsible for something you can't control (show me a company where a tester can fire a developer committing too many bugs), it can only lead to frustration and inefficient practices.
+
+I think this story is very similar to the one where system administrators struggle with the operation of software written by others, the realization of which lead to the devops movement. (It's such a shame that the industry completely misunderstood devops and reacted by simply renaming system admin role to devops roles.  (Only to do it once again with scrum masters...))
 
 In part 2, I'll propose a different setup.
