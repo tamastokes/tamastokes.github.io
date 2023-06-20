@@ -24,5 +24,4 @@ However, if you are responsible for something you can't control (show me a compa
 
 I think this story is very similar to the one where system administrators struggle with the operation of software written by others, the realization of which lead to the devops movement. (It's such a shame that the industry completely misunderstood devops and reacted by simply renaming system admin role to devops roles.  (Only to do it once again with scrum masters...))
 
-In part 2, I'll propose a different setup.
-In [Part #2](https://tamastokes.github.io/testing/2023/06/20/testing-principles.html) I tried to show the consequences of the setup where a separate testing team tries to take responsibility for code quality, i.e. holding the mandate of being a quality gate.  OK, not quality gate, but then what?
+In [Part #2](https://tamastokes.github.io/testing/2023/06/20/testing-principles.html) I'll propose a different setup. 
