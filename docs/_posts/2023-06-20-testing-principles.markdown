@@ -18,7 +18,7 @@ Do you remember COVID-tests?  What did we use them for?  I think a reasonable su
 A good end-to-end test can reduce uncertainty more than a good unit test, but:
 * Some scenarios are difficult to trigger in an end-to-end test, e.g. testing how my code reacts if a database operation deadlocks.
 * If the test fails, it usually takes a lot of time to localize the bug, or even to figure out if it was a false or true positive.
-* Combinatorial boom of edge cases.  Say, you have 5 components with 5 edge cases each.  You'll natuarally write 5*5=25 unit tests for them.  But if you want to test each combination in end-to-end tests, then the number of test cases will be 5^5=3125.
+* Combinatorial boom of edge cases.  Say, you have 5 components with 5 edge cases each.  You'll natuarally write 5 * 5=25 unit tests for them.  But if you want to test each combination in end-to-end tests, then the number of test cases will be 5^5=3125.
 * The execution time of an end-to-end test case can be order of magnitudes slower than that of a unit test, as an entire environment needs to be brought up.
 
 **Principle #4: a reasonable compromise to resolve the trade-offs around end-to-end testing is the testing pyramid: write zillions of unit tests, fewer integration tests, and even fewer end-to-end tests, typically only for the happy paths.**
