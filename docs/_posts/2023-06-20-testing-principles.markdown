@@ -4,7 +4,7 @@ title:  "Testing principles"
 date:   2023-06-20 12:37:00 +0100
 categories: testing
 ---
-In [Part #1](https://tamastokes.github.io/testing/2023/06/19/who-should-be-responsible-for-software-quality.html) I tried to show the consequences of the setup where a separate testing team tries to take responsibility for code quality, i.e. holding the mandate of being a quality gate.  OK, not quality gate, but then what?
+In [Part #1](https://tamastokes.github.io/testing/2023/06/19/who-should-be-responsible-for-software-quality.html) I tried to show the consequences of the setup where a separate testing team tries to take responsibility for code quality, i.e. holding the mandate of being a quality gate.  But if not quality gate, then what?
 
 ## Why we test
 
